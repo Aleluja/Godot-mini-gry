@@ -13,14 +13,14 @@ offset_top = 126.000046
 offset_right = 638.0
 offset_bottom = 189.00005
 scale = Vector2(5, 5)
-text = "🍉"
+text = "dupa"
 
 [node name="PrzyciskArbuz" type="Button" parent="CanvasLayer" unique_id=1217166437]
 offset_left = 545.0
 offset_top = 241.0
 offset_right = 719.0
 offset_bottom = 272.0
-text = "🍉Zauważ Arbuza 🍉"
+text = "Zauważ Huja"
 
 [node name="IkonaNoza" type="Label" parent="CanvasLayer" unique_id=195160675]
 texture_filter = 1
@@ -30,4 +30,4 @@ offset_right = 677.0
 offset_bottom = 136.00002
 rotation = 0.3032948
 scale = Vector2(5, 5)
-text = "🔪"
+text = "dupa"
